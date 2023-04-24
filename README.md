@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SortingVisualizer
 =======
 # Getting Started with Create React App
